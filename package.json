@@ -1,0 +1,15 @@
+{
+  "name": "gbdx-invite",
+  "version": "1.0.0",
+  "description": "mails invites to people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxwell O'Roark <m.d.oroark@gmail.com> (https://github.com/maxwell-oroark)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "2.63.0",
+    "dotenv": "4.0.0"
+  }
+}
